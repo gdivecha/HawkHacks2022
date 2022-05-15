@@ -1,4 +1,4 @@
-# <strong>HawkHacks2022:</strong><br/> TALONS: Sink your talons into a future with heightened productivity :chart_with_upwards_trend:
+# <strong>HawkHacks2022:</strong><br/> TALONS: Sink your talons into a future with heightened productivity:chart_with_upwards_trend:
 
 <img src=https://cdn.discordapp.com/attachments/975045520626163772/975402674373660682/189A5203-78EC-473B-A794-26793EF12D08.jpg width="500">
 
