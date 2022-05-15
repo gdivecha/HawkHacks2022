@@ -18,7 +18,7 @@ Have you ever lost track of your tasks and reminders when you’re on discord? H
 - $showReminders
 - $pomodoro <workTime(e.g. “00:50:00”)> <breakTime(e.g. “00:10:00”)>
 - $startWorkTime
-- $startBreakTime<br />
+- $startBreakTime<br /><br />
 Using these commands, you will be able to:
 - Setup a phone number and an email address that you would like the reminder to be sent to
 - Replace the phone number you inputted with a new one
