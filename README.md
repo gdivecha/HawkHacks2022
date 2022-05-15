@@ -33,4 +33,4 @@ The hunt for productivity is preyed on by Talons, the sharpest discord bot! Talo
 The Discord Bot TOKEN and the Twilio account information has not been included in this submission for security purposes
 
 <strong>By:</strong> :brain:<br />
-Gaurav Divecha (gdivecha), Vikram Prashar (), Hanana Gohir (hananagohir), & Mohammad Al-Shallabi ()
+Gaurav Divecha (gdivecha), Vikram Prashar (), Hanana Gohir (hananagohir), & Mohammad Al-Shallabi (Malshalab)
