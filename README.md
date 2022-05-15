@@ -48,7 +48,7 @@ We learned how fast we are able to grasp the functinalities and implementations 
 We have made this project very modifiable and scalable for future projects as well. We have even made the functionality of emails a possibility in the future. This project is quite ambitious considering how much traffic discord sees daily. Servers are always a great way of introducing new bots and these bots are a game-changer as a lot of people are active on discord, while they keep their phones or reminders on silent mode. This can even be extended into a domain that we are planning on creating in the future.
 
 <strong>Where to find our video:</strong> :link:<br />
-
+https://youtu.be/Sl5hMuFrE7k
 
 <strong>**Note:**</strong> :old_key:<br />
 The Discord Bot TOKEN and the Twilio account information has not been included in this submission for security purposes
