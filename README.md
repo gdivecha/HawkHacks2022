@@ -32,5 +32,5 @@
 <strong>**Note:**</strong> :old_key:<br />
 The Discord Bot TOKEN and the Twilio account information has not been included in this submission for security purposes
 
-<strong>By:</strong> :point_down:<br />
+<strong>By:</strong> :brain:<br />
 Gaurav Divecha (gdivecha), Vikram Prashar (), Hanana Gohir (), & Mohammad Al-Shallabi ()
