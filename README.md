@@ -1,7 +1,4 @@
-# HawkHacks2022
-Team 56 - Submission to the HawkHacks2022 Hackathon sponsored by Major League Hacking (MLH)
-
-# <strong>RUHacks2022</strong> - Tamacord
+# <strong>HawkHacks2022</strong>: Talons - Sink your talons into 
 
 <img src=https://cdn.discordapp.com/attachments/973764001219629086/975102616591802368/IMG_2988.png width="500">
 
@@ -26,7 +23,7 @@ Team 56 - Submission to the HawkHacks2022 Hackathon sponsored by Major League Ha
 <strong>What we learned:</strong><br />
 
 
-<strong>What's next for Tamacord:</strong><br />
+<strong>What's next for Talons:</strong><br />
 
 
 <strong>Where to find our video:</strong><br />
@@ -36,4 +33,3 @@ Team 56 - Submission to the HawkHacks2022 Hackathon sponsored by Major League Ha
 The Discord Bot TOKEN and the Twilio account information has not been included in this submission for security purposes
 
 <strong>By:</strong> Gaurav Divecha (gdivecha), Vikram Prashar (), Hanana Gohir (), & Mohammad Al-Shallabi ()
-
