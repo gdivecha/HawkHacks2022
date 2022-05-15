@@ -1,4 +1,4 @@
-# <strong>HawkHacks2022:</strong><br /> Talons - Sink your talons into a future with heightened productivity
+# <strong>HawkHacks2022:</strong><br /> TALONS - Sink your talons into a future with heightened productivity
 
 <img src=https://cdn.discordapp.com/attachments/973764001219629086/975102616591802368/IMG_2988.png width="500">
 
