@@ -17,7 +17,7 @@
 <strong>Challenges we ran into:</strong><br />
 
 
-<strong>Accomplishments that we're proud of:</strong><br />
+<strong>Accomplishments that we're proud of:</strong><br /> :mechanical_arm:	
 
 
 <strong>What we learned:</strong><br />
