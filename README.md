@@ -6,7 +6,7 @@
 The hunt for productivity is preyed on by Talons, the sharpest discord bot! Talons is your peak performance sidekick armed with the pomodoro technique, reminders and SMS for your next mission.
 
 <strong>Inspiration:</strong> :bulb:<br />
-
+We noticed issues firsthand in terms of productivity and completing tasks. As students who religiously use discord, while we are on our laptops/desktops working, we miss reminders on our silent phones or forget to actually complete tasks or attends events. This inconvenience gave us the opportunity to create Talons, the discord bot. Talons brings a well rounded productivity experience, with a built in pomodoro technique, personal reminders with pings ans SMS.
 
 <strong>What it does:</strong> :dart:<br />
 
