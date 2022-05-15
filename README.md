@@ -28,7 +28,7 @@ Using these commands, you will be able to:
 - Show your current reminders
 - Add a pomodoro timer for your work and break routine
 - Execute your work time routine
-- Execute your break ime routine
+- Execute your break time routine
 ……
 This bot will send you an SMS wih your personalized message as a reminder, mention you in the discord channel and it can even be extended so that it can email you with a link you would like to join for a zoom meeting, just so you can keep track of your tasks. Our domain allows you to access our services as well.
 
