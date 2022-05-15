@@ -3,7 +3,7 @@
 <img src=https://cdn.discordapp.com/attachments/973764001219629086/975102616591802368/IMG_2988.png width="500">
 
 <strong>Description:</strong> :microscope:<br />
-
+The hunt for productivity is preyed on by Talons, the sharpest discord bot! Talons is your peak performance sidekick armed with the pomodoro technique, reminders and SMS for your next  mission.
 
 <strong>Inspiration:</strong> :bulb:<br />
 
