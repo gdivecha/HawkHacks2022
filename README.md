@@ -50,6 +50,9 @@ We have made this project very modifiable and scalable for future projects as we
 <strong>Where to find our video:</strong> :link:<br />
 https://youtu.be/Sl5hMuFrE7k
 
+<strong>Where to find our DevPost submission here:</strong> :link:<br />
+https://devpost.com/software/talons
+
 <strong>**Note:**</strong> :old_key:<br />
 The Discord Bot TOKEN and the Twilio account information has not been included in this submission for security purposes
 
